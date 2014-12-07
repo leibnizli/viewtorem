@@ -1,0 +1,29 @@
+{
+  "name": "viewtorem",
+  "version": "1.0.1",
+  "description": "made css file px to rem.",
+  "main": "index.js",
+  "bin": {
+    "viewtorem": "index.js"
+  },
+  "scripts": {
+    "test": "node index.js tess.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stormtea123/viewtorem.git"
+  },
+  "author": {
+    "name": "stormte@gmail.com"
+  },
+  "dependencies": {},
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stormtea123/viewtorem/issues"
+  },
+  "homepage": "https://github.com/stormtea123/viewtorem",
+  "readme": "viewtorem\n=========\n\n",
+  "readmeFilename": "README.md",
+  "_id": "viewtorem@0.1.5",
+  "_from": "viewtorem@"
+}
