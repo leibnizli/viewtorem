@@ -79,10 +79,6 @@ function dealfile(filename, options) {
     var css = fs.readFileSync(filename, {encoding:"utf8"});
     var processedCss = postcss(viewtorem(options)).process(css).css;
     process.stdout.write("--> " + filename + "...");
-    fs.writeFile(path.normalize(filename).split(".")[0]+'-rem.css', processedCss, function(err) {
-        if (err) {
-            throw err;
-        }
-        process.stdout.write("done\r\n");
-    });
+    fs.writeFileSync(path.normalize(filename).split(".")[0]+'-rem.css', processedCss);
+    process.stdout.write("done\r\n");
 }

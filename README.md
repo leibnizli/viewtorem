@@ -20,7 +20,7 @@ viewtorem
     "files": ["./css/style.css"],
     //默认根目录字体大小(px)
     "root_value": 20,
-    //保留小数位（最后一位四舍五入）
+    //保留小数位
     "unit_precision": 5,
     //需要换算的属性
     //"font", "font-size", "line-height", "letter-spacing"
