@@ -1,0 +1,7 @@
+.box::before {
+    width: 20px;
+    width: 1.25rem;
+    height: 30px;
+    height: 1.875rem;
+    line-height: 30px;
+}

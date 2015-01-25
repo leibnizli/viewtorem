@@ -1,0 +1,25 @@
+@charset "utf-8";
+.box {
+    width: 20px;
+    height: 30px;
+    line-height: 30px;
+}
+.side {
+    height: 40px;
+    line-height: 90px;
+}
+.bar { height: 10px; line-height: 120px; }
+/*中文注释*/
+
+.module {
+    width: 80px;
+    height: 71px;
+}
+.footer {
+    width: 40px;
+    height: 1px;
+}
+
+@media screen and (max-width:240px){
+    body{font-size:medium;}
+}
