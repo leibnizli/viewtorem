@@ -17,9 +17,9 @@ viewtorem
 {
     //待处理文件值可以是数组或字符串
     //例如：“./style”，当前目录下style文件夹下所有css文件(会自动排除包含‘-rem.css’这些已经转换过的样式表)
-    "files": ["style.css"],
+    "files": ["./css/style.css"],
     //默认根目录字体大小(px)
-    "root_value": 16,
+    "root_value": 20,
     //保留小数位（最后一位四舍五入）
     "unit_precision": 5,
     //需要换算的属性
