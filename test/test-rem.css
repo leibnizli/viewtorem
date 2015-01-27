@@ -2,11 +2,14 @@
     width: 20px;
     width: 1rem;
     height: 1px;
+    height: 0.05rem;
 }
 .test::before {
     width: 40px;
+    width: 2rem;
     width: 1rem;
     height: 220px;
+    height: 11rem;
 }
 
 

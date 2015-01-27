@@ -1,6 +1,6 @@
 {
     "name": "viewtorem",
-    "version": "1.0.15",
+    "version": "1.1.0",
     "description": "made css file px to rem.",
     "main": "index.js",
     "bin": {
@@ -24,6 +24,6 @@
         "url": "https://github.com/stormtea123/viewtorem/issues"
     },
     "homepage": "https://github.com/stormtea123/viewtorem",
-    "_id": "viewtorem@1.0.15",
+    "_id": "viewtorem@1.1.0",
     "_from": "viewtorem@"
 }
