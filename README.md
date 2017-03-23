@@ -3,11 +3,11 @@ viewtorem
 
 替换css属性值中的px
 
-###安装
+### 安装
 
     npm install -g viewtorem
 
-###初始化
+### 初始化
 
     viewtorem init
 
@@ -34,6 +34,6 @@ viewtorem
 }
 ```
 
-###执行
+### 执行
 
     viewtorem build
