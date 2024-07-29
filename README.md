@@ -5,7 +5,7 @@ viewtorem
 
 ### 安装
 
-    npm install -g viewtorem
+~~npm install -g viewtorem~~
 
 ### 初始化
 
